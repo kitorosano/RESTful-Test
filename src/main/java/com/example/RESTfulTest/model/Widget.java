@@ -60,4 +60,6 @@ public class Widget {
     public void setVersion(Integer version) {
         this.version = version;
     }
+
+    
 }
